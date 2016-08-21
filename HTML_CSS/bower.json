@@ -1,0 +1,26 @@
+{
+  "name": "Project",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "dariusu <aqua3man@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "fancybox": "^2.1.5",
+    "font-awesome": "^4.6.3",
+    "open-sans": "^1.1.0",
+    "swiper": "^3.3.1",
+    "pure": "^0.6.0",
+    "jReject": "^1.1.4",
+    "roboto-fontface": "^0.5.0"
+  }
+}
